@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Workout Timer</string>
+    <string name="timer">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="start">TODO</string>
+    <string name="exerciseType">TextView</string>
+</resources>
